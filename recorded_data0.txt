@@ -1,0 +1,27 @@
+Position Mass
+
+position: 
+start moving
+-13.0  683.6105807883114
+
+position: 
+start moving
+-24.0  1158.91692913573
+
+position: 
+sensor 3
+3
+init motor 0 0.0015625 3
+init motor 1 0.0015625
+switch init 2
+position: 
+start moving
+-4.0  1148.686342471389
+
+position: 
+start moving
+12.1484375  1150.8576658824827
+
+position: 
+
+--User Termination--

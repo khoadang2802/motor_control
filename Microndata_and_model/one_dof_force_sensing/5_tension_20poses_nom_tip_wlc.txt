@@ -1,0 +1,8 @@
+Position Mass from motor Mass from weight
+
+-14.8609375  -682.0811124556561 -1.5522139891881306
+
+-15.0  -53.915056083645105 -67.3431115105694
+
+
+--User Termination--
