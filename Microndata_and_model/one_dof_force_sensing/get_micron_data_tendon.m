@@ -32,8 +32,8 @@ Nm = 9;  % Number of markers (Not including cool card)
 %rb = [18 ; -10 ; 16];
 %rb = [7; -13; 17]; 
 %rm = [-13; 7; 17]; 
-rm = [18 ; -10 ; 17];
-rb = [18 ; -10 ; 17];
+rm = [17 ; -7 ; 13];
+rb = [17 ; -7 ; 13];
 
 %% Importing tau and q
 
@@ -117,3 +117,4 @@ daspect([1 1 1])
 xlabel('x')
 ylabel('y')
 zlabel('z')
+hold on
